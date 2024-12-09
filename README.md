@@ -1,0 +1,1 @@
+This repository includes the assignment: Web Fundamentals in Module 6: Lesson 1 of the Software Engineering Core.
